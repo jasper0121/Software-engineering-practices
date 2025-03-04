@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW1\Eclipse 封裝\.metadata\.plugins\org.eclipse.jdt.core
+637001423.index
+3123386010.index
+1865797976.index
