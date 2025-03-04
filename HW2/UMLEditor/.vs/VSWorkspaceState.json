@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UMLEditor",
+    "\\UMLEditor\\Actions",
+    "\\UMLEditor\\Modes",
+    "\\UMLEditor\\Pseudo",
+    "\\UMLEditor\\Shapes",
+    "\\UMLEditor\\Views",
+    "\\UMLEditor\\Views\\ContextMenuComponents",
+    "\\UMLEditor\\Views\\ContextMenuComponents\\EditContextMenu",
+    "\\UMLEditor\\Views\\ContextMenuComponents\\FileContextMenu"
+  ],
+  "SelectedNode": "\\UMLEditor\\Actions\\DeleteAction.cs",
+  "PreviewInSolutionExplorer": false
+}

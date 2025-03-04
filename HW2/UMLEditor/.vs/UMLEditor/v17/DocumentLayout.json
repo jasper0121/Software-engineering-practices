@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF14BE8-6E79-49F3-8230-B095F2EA90D9}|UMLEditor\\UMLEditor.csproj|C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Modes\\SelectMode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF14BE8-6E79-49F3-8230-B095F2EA90D9}|UMLEditor\\UMLEditor.csproj|solutionrelative:UMLEditor\\Modes\\SelectMode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF14BE8-6E79-49F3-8230-B095F2EA90D9}|UMLEditor\\UMLEditor.csproj|c:\\users\\peko\\desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\week1\\hw2\\umleditor\\umleditor\\actions\\deleteaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF14BE8-6E79-49F3-8230-B095F2EA90D9}|UMLEditor\\UMLEditor.csproj|solutionrelative:umleditor\\actions\\deleteaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF14BE8-6E79-49F3-8230-B095F2EA90D9}|UMLEditor\\UMLEditor.csproj|C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Actions\\GroupAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF14BE8-6E79-49F3-8230-B095F2EA90D9}|UMLEditor\\UMLEditor.csproj|solutionrelative:UMLEditor\\Actions\\GroupAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF14BE8-6E79-49F3-8230-B095F2EA90D9}|UMLEditor\\UMLEditor.csproj|C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Shapes\\Shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF14BE8-6E79-49F3-8230-B095F2EA90D9}|UMLEditor\\UMLEditor.csproj|solutionrelative:UMLEditor\\Shapes\\Shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF14BE8-6E79-49F3-8230-B095F2EA90D9}|UMLEditor\\UMLEditor.csproj|C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Views\\Canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF14BE8-6E79-49F3-8230-B095F2EA90D9}|UMLEditor\\UMLEditor.csproj|solutionrelative:UMLEditor\\Views\\Canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF14BE8-6E79-49F3-8230-B095F2EA90D9}|UMLEditor\\UMLEditor.csproj|C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF14BE8-6E79-49F3-8230-B095F2EA90D9}|UMLEditor\\UMLEditor.csproj|solutionrelative:UMLEditor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteAction.cs",
+              "DocumentMoniker": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Actions\\DeleteAction.cs",
+              "RelativeDocumentMoniker": "UMLEditor\\Actions\\DeleteAction.cs",
+              "ToolTip": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Actions\\DeleteAction.cs",
+              "RelativeToolTip": "UMLEditor\\Actions\\DeleteAction.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAewB0AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:36:28.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectMode.cs",
+              "DocumentMoniker": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Modes\\SelectMode.cs",
+              "RelativeDocumentMoniker": "UMLEditor\\Modes\\SelectMode.cs",
+              "ToolTip": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Modes\\SelectMode.cs",
+              "RelativeToolTip": "UMLEditor\\Modes\\SelectMode.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAQwOgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:01:55.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupAction.cs",
+              "DocumentMoniker": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Actions\\GroupAction.cs",
+              "RelativeDocumentMoniker": "UMLEditor\\Actions\\GroupAction.cs",
+              "ToolTip": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Actions\\GroupAction.cs",
+              "RelativeToolTip": "UMLEditor\\Actions\\GroupAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T03:59:39.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "UMLEditor\\Shapes\\Shape.cs",
+              "ToolTip": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Shapes\\Shape.cs",
+              "RelativeToolTip": "UMLEditor\\Shapes\\Shape.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAWwBoBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:41:01.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Canvas.cs",
+              "DocumentMoniker": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Views\\Canvas.cs",
+              "RelativeDocumentMoniker": "UMLEditor\\Views\\Canvas.cs",
+              "ToolTip": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Views\\Canvas.cs",
+              "RelativeToolTip": "UMLEditor\\Views\\Canvas.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAtwAABAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:34:08.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Program.cs",
+              "RelativeDocumentMoniker": "UMLEditor\\Program.cs",
+              "ToolTip": "C:\\Users\\Peko\\Desktop\\\u912D\u6C38\u658C-\u8EDF\u9AD4\u5DE5\u7A0B\u5BE6\u52D9\\Week1\\HW2\\UMLEditor\\UMLEditor\\Program.cs",
+              "RelativeToolTip": "UMLEditor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:07:47.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
