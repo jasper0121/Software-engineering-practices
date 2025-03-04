@@ -1,0 +1,15 @@
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\bin\Debug\UML Editor.exe.config
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\bin\Debug\UML Editor.exe
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\bin\Debug\UML Editor.pdb
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\bin\Debug\MetroFramework.Design.dll
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\bin\Debug\MetroFramework.dll
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.AssemblyReference.cache
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\obj\Debug\UMLEditor.UMLEditorForm.resources
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\obj\Debug\UMLEditor.Properties.Resources.resources
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\obj\Debug\UMLEditor.Views.Dialogs.RenameDialog.resources
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.GenerateResource.cache
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.CoreCompileInputs.cache
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\obj\Debug\UMLEditor.csproj.Up2Date
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\obj\Debug\UML Editor.exe
+C:\Users\Peko\Desktop\鄭永斌-軟體工程實務\Week1\HW2\UMLEditor\UMLEditor\obj\Debug\UML Editor.pdb
