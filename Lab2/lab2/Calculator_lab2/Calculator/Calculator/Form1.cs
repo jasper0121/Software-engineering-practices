@@ -1,0 +1,188 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Diagnostics;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Calculator
+{
+    public partial class Form1 : Form
+    {
+        int currentNum = 1;
+        double result, num1, num2;
+        String op;
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        public void button_show()
+        {
+            addition.Enabled = true;
+            subtraction.Enabled = true;
+            multiplication.Enabled = true;
+            division.Enabled = true;
+        }
+
+        private void addition_Click(object sender, EventArgs e)
+        {
+            if (currentNum == 1 && textBox1.Text.Length > 0 && textBox1.Text != ".") // 新增：&& textBox1.Text.Length > 0 && textBox1.Text != "."
+            {
+                num1 = Convert.ToDouble(textBox1.Text);
+                addition.Enabled = false;
+                op = "+";
+                textBox1.Text = "";
+                currentNum++;
+            }
+        }
+
+        private void Number0_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "0";
+        }
+
+        private void Number1_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "1";
+        }
+
+        private void Number2_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "2";
+        }
+
+        private void Number3_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "3";
+        }
+
+        private void Number4_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "4";
+        }
+
+        private void Number5_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "5";
+        }
+
+        private void Number6_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "6";
+        }
+
+        private void Number7_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "7";
+        }
+
+        private void Number8_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "8";
+        }
+
+        private void Number9_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "9";
+        }
+
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "0";
+        }
+
+        private void subtraction_Click(object sender, EventArgs e)
+        {
+            if (currentNum == 1 && textBox1.Text.Length > 0 && textBox1.Text != ".") // 新增：&& textBox1.Text.Length > 0 && textBox1.Text != "."
+            {
+                num1 = Convert.ToDouble(textBox1.Text);
+                subtraction.Enabled = false;
+                op = "-";
+                textBox1.Text = "";
+                currentNum++;
+            }
+        }
+
+        private void multiplication_Click(object sender, EventArgs e)
+        {
+            if (currentNum == 1 && textBox1.Text.Length > 0 && textBox1.Text != ".") // 新增：&& textBox1.Text.Length > 0 && textBox1.Text != "."
+            {
+                num1 = Convert.ToDouble(textBox1.Text);
+                multiplication.Enabled = false;
+                op = "*";
+                textBox1.Text = "";
+                currentNum++;
+            }
+        }
+
+        private void division_Click(object sender, EventArgs e)
+        {
+            if (currentNum == 1 && textBox1.Text.Length > 0 && textBox1.Text != ".") // 新增：&& textBox1.Text.Length > 0 && textBox1.Text != "."
+            {
+                num1 = Convert.ToDouble(textBox1.Text);
+                division.Enabled = false;
+                op = "/";
+                textBox1.Text = "";
+                currentNum++;
+            }
+        }
+
+        private void decimalPoint_Click(object sender, EventArgs e)
+        {
+            if (!textBox1.Text.Contains(".")) // 新增：若textBox1.Text中不含 "."
+            {
+                textBox1.Text += ".";
+            }
+        }
+
+        private void equals_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text.Length > 0 && textBox1.Text != ".") // 新增
+            {
+                if (currentNum == 1) // 新增
+                {
+                    num1 = Convert.ToDouble(textBox1.Text); // 新增
+                }
+                else // 新增
+                {
+                    num2 = Convert.ToDouble(textBox1.Text); // 原寫法
+                }
+
+                switch (op)
+                {
+                    case "+":
+                        result = num1 + num2;
+                        break;
+                    case "-":
+                        result = num1 - num2;
+                        break;
+                    case "*":
+                        result = num1 * num2;
+                        break;
+                    case "/":
+                        result = num1 / num2;
+                        break;
+                }
+                textBox1.Text = Convert.ToString(result);
+                currentNum = 1; // 原：currentNum++
+                button_show(); // 新增
+                return;
+            }
+        }
+
+        private void Clear_Click(object sender, EventArgs e)
+        {
+            button_show();
+            num1 = 0;
+            num2 = 0;
+            textBox1.Text = "";
+            currentNum = 1;
+        }
+    }
+}
